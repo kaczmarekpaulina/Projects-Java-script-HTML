@@ -1,0 +1,15 @@
+.winner {
+  color: green;
+}
+
+.loser {
+  color: red;
+}
+
+#displayScore {
+  padding: 50px;
+}
+
+#displayScore {
+  font-size: 80px;
+}
